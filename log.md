@@ -15,4 +15,23 @@
 
 **Thoughts** Implemented only a basic local version. More work is needed to make it fetch data from an API, share quotes via tweet, or even host the site online.
 
-**Link to work:** [Github](https://github.com/adbose/js-quotes-machine)
+**Link to work:** [Github](https://github.com/adbose/random-quotes-generator)
+
+
+### Day 2: August 26
+
+**Today's Progress**: Switched to an external API for fetching random quotes. Reworked the JavaScript workings to use jQuery with AJAX to call the API as well as share to Twitter.
+
+**Thoughts** The Forismatic API documentations were not very clear about the API parameters for making requests. It was solved by adding `jsonp` in the request parameters.
+[View here](https://github.com/adbose/random-quotes-generator/blob/master/scripts.js#L10)
+
+**Link to work:** [Github](https://github.com/adbose/random-quotes-generator)
+
+
+### Day 3: August 27
+
+**Today's Progress**: Deployed the site on Github pages. Fixed a big of API request not executing successfully.
+
+**Thoughts** The API call was failing because the site was hosten on Github Pages over HTTPS, but the API scheme was HTTP. Took a long time to figure out, but finally solved the issue by changing the scheme to HTTPS.
+
+**Link to work:** [Random Quotes Generator](https://adbose.github.io/random-quotes-generator)
