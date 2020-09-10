@@ -71,3 +71,66 @@
 **Thoughts** Learnt how to use the localStorage of the browser to store any date completely client side. Learnt how to remember choice of a user action even after page/session reload by storing the data on localStorage.
 
 **Link to work:** [Github](https://github.com/adbose/light-and-dark-toggle)
+
+
+### Day 7: September 1
+
+**Today's Progress**: Built a single page app with a button to toggle between light and dark theme with persistent data from localStorage.
+
+**Thoughts** Learnt how to use the localStorage of the browser to store any date completely client side. Learnt how to remember choice of a user action even after page/session reload by storing the data on localStorage.
+
+**Link to work:** [Github](https://github.com/adbose/light-and-dark-toggle)
+
+
+### Day 7: September 1
+
+**Today's Progress**: Built a single page app with a button to toggle between light and dark theme with persistent data from localStorage.
+
+**Thoughts** Learnt how to use the localStorage of the browser to store any date completely client side. Learnt how to remember choice of a user action even after page/session reload by storing the data on localStorage.
+
+**Link to work:** [Github](https://github.com/adbose/light-and-dark-toggle)
+
+
+### Day 8: September 2
+
+**Today's Progress**: Started working on a TODO app using HTML, CSS, JavaScript based on the Freshman Todo List Blog post [here](https://freshman.tech/todo-list/). Got the front end boilerplate up mostly.
+
+**Thoughts** Used SVG images for the first time. Looks weird but isn't complicated.
+
+**Link to work:** [Github](https://github.com/adbose/js-todo-app)
+
+
+### Day 9: September 6
+
+**Today's Progress**: Added JavaScript to render items on form submit.
+
+**Thoughts**  Studied JavaScript concepts the past couple of days to better understand the concepts involved in the Todo app design.
+
+**Link to work:** [Github](https://github.com/adbose/js-todo-app)
+
+
+### Day 10: September 8
+
+**Today's Progress**: Add more JavaScript to complete and delete tasks.
+
+**Thoughts** Persisting tasks on the local storage, and a default empty state is still left to be implemented.
+
+**Link to work:** [Site](https://https://adbose.github.io/js-todo-app)
+
+
+### Day 11: September 9
+
+**Today's Progress**: Started working on a new project- A JavaScript calculator based on this [video](https://www.youtube.com/watch?v=j59qQ7YWLxw) by Web Dev Simplified. Laid out the markup and styles in HTML and CSS.
+**Thoughts** Thinking of also working on the pending backlogs in the 100 days journey. Would try to clear some backlog in the weekend.
+
+**Link to work:** [Github](https://github.com/adbose/js-calculator)
+
+
+### Day 12: September 10
+
+**Today's Progress**: Wrote some JavaScript to capture inputs on button click events.
+
+**Thoughts** Understanding how OOP works to create a calculator functionality.
+
+**Link to work:** [Site](adbose.github.io/js-calculator)
+
